@@ -1,4 +1,4 @@
-const PORT = 8000
+const PORT = process.env.PORT || 8000 // for deploying in heroku
 const express = require ('express') // importing library
 const axios = require ('axios') // importing library
 const cheerio = require ('cheerio') // importing library
