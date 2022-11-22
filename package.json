@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sandagomi/API.git"
+    "url": ""
   },
   "author": "sandagomi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sandagomi/API/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Sandagomi/API#readme"
+  "homepage": ""
 }
