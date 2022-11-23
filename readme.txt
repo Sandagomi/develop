@@ -14,3 +14,6 @@ change the script in package.json for the
 "scripts": {
     "start":"nodemon index.js"
 
+
+heroku git:remote -a climatechangeappnews
+git push heroku master
