@@ -56,7 +56,7 @@ newspapers.forEach(newspaper => {
 
 app.get('/', (req,res) => {
     res.json('Welcome to my climate change API')
-}) // calling the get function
+}) // calling the get function to the root page
 
 
 app.get('/news', (req,res) => {
